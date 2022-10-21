@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="NorthWind22H1">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="LAPTOP-NIERSQK9:LAPTOP-NIERSQK9\anton">
+          <Created>2022-04-05T11:19:33.1327077-04:00</Created>
+          <Type>SQL</Type>
+          <Server>LAPTOP-NIERSQK9</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>MyDB1</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="10-creating_views.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-NIERSQK9:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-NIERSQK9</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>10-creating_views.sql</FullPath>
+        </FileNode>
+        <FileNode Name="1-create_database.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-NIERSQK9:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-NIERSQK9</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>1-create_database.sql</FullPath>
+        </FileNode>
+        <FileNode Name="2-create schema.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-NIERSQK9:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-NIERSQK9</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>2-create schema.sql</FullPath>
+        </FileNode>
+        <FileNode Name="3-create user-defined datatype.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-NIERSQK9:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-NIERSQK9</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>3-create user-defined datatype.sql</FullPath>
+        </FileNode>
+        <FileNode Name="4 -creating table objects.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-NIERSQK9:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-NIERSQK9</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>4 -creating table objects.sql</FullPath>
+        </FileNode>
+        <FileNode Name="5-apply_data_integrity.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-NIERSQK9:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-NIERSQK9</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>5-apply_data_integrity.sql</FullPath>
+        </FileNode>
+        <FileNode Name="6-creating_indexes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-NIERSQK9:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-NIERSQK9</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>6-creating_indexes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="7-insert_data.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-NIERSQK9:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-NIERSQK9</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>7-insert_data.sql</FullPath>
+        </FileNode>
+        <FileNode Name="8-transfer_tables_to_another_schema.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-NIERSQK9:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-NIERSQK9</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>8-transfer_tables_to_another_schema.sql</FullPath>
+        </FileNode>
+        <FileNode Name="9-updating data.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-NIERSQK9:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-NIERSQK9</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>9-updating data.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
